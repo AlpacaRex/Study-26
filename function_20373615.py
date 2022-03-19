@@ -1,1 +1,1 @@
-print('My student_id: 20373615:')
+print('My student_id: 20373615')
